@@ -13,3 +13,4 @@ jshell> List<Country> countries = new CountryRepository().getAll(); // The list 
 ```
 
 Building and running the project requires JDK 17 or later.
+# stream-playground
